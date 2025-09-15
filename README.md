@@ -16,7 +16,8 @@ At Joggr, we have been working with our customers to automatically generate a `A
 
 Below are some examples of repositories using the `joggr/agents.md` standard:
 
-- [viteval](https://github.com/viteval/viteval) - A framework for evaluating LLMs using TypeScript powered by Vitest
+- [viteval](https://github.com/viteval/viteval/blob/main/AGENTS.md) - A framework for evaluating LLMs using TypeScript powered by Vitest
+- [VoltAgent](https://github.com/VoltAgent/voltagent/blob/main/AGENTS.md) - A TypeScript framework for building AI Agents
 
 ## The Standard
 
