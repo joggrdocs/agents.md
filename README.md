@@ -6,15 +6,15 @@ A standard for configuring a universal [`AGENTS.md`](https://github.com/openai/a
 
 ## Why?
 
-### Great documentation improves the quality of generated code
+### 📖 Great documentation improves the quality of generated code
 
 At Joggr, we have been working with our customers to automatically generate a `AGENTS.md` and keep it up-to-date, in addition to their standard `markdown` documentation. We've seen significant improvements in the quality of generated code when a repository has great documentation, but you also need to make sure your agents KNOW about those great docs.
 
-### `AGENTS.md` is not supported by all agents
+### 🙌 `AGENTS.md` is not supported by all agents
 
 Not all agents will automatically look for a `AGENTS.md` file in the root of the repository, for example tools like `cursor`, `claude`, etc. have their own configuration files.
 
-### Save time and money with pre-configured context
+### 💸 Save time and money with pre-configured context
 
 By pre-configuring great context for all of your agents, they are not required to `grep` or `ls` through your repository to find the relevant documentation, files, or other context needed to complete their tasks.
 
